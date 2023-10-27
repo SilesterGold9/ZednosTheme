@@ -3,6 +3,22 @@
   "displayName": "ZednosTheme",
   "description": "Zednos Awesome theme by SilvestreDourado",
   "version": "0.0.1",
+  "publisher": "GhostWithAHoodie",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SilesterGold9/ZednosTheme"
+  },
+  "icon": "https://github.com/SilesterGold9/ZednosTheme/blob/main/zed/assets/zt-favicon-color.png",
+
+  "keywords": [
+    "theme",
+    "dark theme",
+    "GhostWithAHoodie",
+    "Ghost With A Hoodie",
+    "SilesterGold9",
+    "Silvestre Dourado"
+  ],
+
   "engines": {
     "vscode": "^1.83.0"
   },
