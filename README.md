@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SilesterGold9/ZednosTheme/blob/main/zed/assets/zt-high-resolution-logo-black-transparent.png" alt="ZednosTheme Logo">
+  <img src="https://github.com/SilesterGold9/ZednosTheme/blob/main/zed/assets/zt-high-resolution-logo-black-transparent.png" alt="ZednosTheme Logo" width="45px" height="45px">
 </p>
 
 # ZednosTheme
