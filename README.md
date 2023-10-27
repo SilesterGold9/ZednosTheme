@@ -56,9 +56,3 @@ ZednosTheme - Stars ✨ | Issues ⚠️
 [![GitHub Stars](https://img.shields.io/github/stars/SilesterGold9/ZednosTheme.svg)](https://github.com/SilesterGold9/ZednosTheme/stargazers)
 
 [![GitHub Issues](https://img.shields.io/github/issues/SilesterGold9/ZednosTheme.svg)](https://github.com/SilesterGold9/ZednosTheme/issues)
-
-## ZednosTheme
-
-[![GitHub Stars](https://img.shields.io/github/stars/SilesterGold9/ZednosTheme.svg)](https://github.com/SilesterGold9/ZednosTheme/stargazers)
-
-[![GitHub Issues](https://img.shields.io/github/issues/SilesterGold9/ZednosTheme.svg)](https://github.com/SilesterGold9/ZednosTheme/issues)
