@@ -49,9 +49,9 @@ Gostou do ZednosTheme? Considere apoiar o projeto com uma estrela ⭐ no GitHub!
 Agradeço por escolher o ZednosTheme para aprimorar sua experiência de desenvolvimento. Codifique com estilo!
 
 <p align="center">
-## ZednosTheme
+ZednosTheme - Stars ✨ | Issues ⚠️
+</p>
 
 [![GitHub Stars](https://img.shields.io/github/stars/SilesterGold9/ZednosTheme.svg)](https://github.com/SilesterGold9/ZednosTheme/stargazers)
 
 [![GitHub Issues](https://img.shields.io/github/issues/SilesterGold9/ZednosTheme.svg)](https://github.com/SilesterGold9/ZednosTheme/issues)
-</p>
