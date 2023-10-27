@@ -6,7 +6,7 @@
 
 **Um mergulho nas cores e na produtividade!**
 
-Bem-vindo ao repositório do ZednosTheme - a sua porta de entrada para uma experiência de codificação atraente e eficaz no Visual Studio Code. Este tema cuidadosamente projetado foi criado para tornar a programação mais agradável e produtiva.
+Bem-vindo ao repositório do ZednosTheme - a sua porta de entrada para uma experiência de codificação atraente e eficaz no Visual Studio Code.
 
 <p align="center">
   <img src="https://github.com/SilesterGold9/ZednosTheme/blob/main/zed/assets/zedosthBG.png" alt="ZednosTheme Screenshot">
@@ -42,11 +42,11 @@ Este tema é distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para 
 
 ## Contato
 
-Se você tiver alguma dúvida, sugestão ou precisar de suporte, sinta-se à vontade para entrar em contato conosco:
+Se você tiver alguma dúvida, sugestão ou precisar de suporte, sinta-se à vontade para entrar em contato comigo:
 
 - E-mail: <silvestredourado18@gmail.com>
 - [Issues](https://github.com/SilesterGold9/ZednosTheme/issues)
 
 Gostou do ZednosTheme? Considere apoiar o projeto com uma estrela ⭐ no GitHub!
 
-Agradecemos por escolher o ZednosTheme para aprimorar sua experiência de desenvolvimento. Codifique com estilo!
+Agradeço por escolher o ZednosTheme para aprimorar sua experiência de desenvolvimento. Codifique com estilo!
