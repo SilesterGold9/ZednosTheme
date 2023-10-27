@@ -1,0 +1,21 @@
+{
+  "name": "zednos-theme",
+  "displayName": "ZednosTheme",
+  "description": "Zednos Awesome theme by SilvestreDourado",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ZednosTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ZednosTheme-color-theme.json"
+      }
+    ]
+  }
+}
