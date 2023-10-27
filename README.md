@@ -45,7 +45,7 @@ Este tema é distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para 
 Se você tiver alguma dúvida, sugestão ou precisar de suporte, sinta-se à vontade para entrar em contato conosco:
 
 - E-mail: <silvestredourado18@gmail.com>
-- [Issues](https://github.com/seuusuario/ZednosTheme/issues)
+- [Issues](https://github.com/SilesterGold9/ZednosTheme/issues)
 
 Gostou do ZednosTheme? Considere apoiar o projeto com uma estrela ⭐ no GitHub!
 
