@@ -26,6 +26,7 @@ Bem-vindo ao repositório do ZednosTheme - a sua porta de entrada para uma exper
 2. Vá para a seção de Extensões (Ctrl+Shift+X).
 3. Pesquise por "ZednosTheme".
 4. Clique em "Instalar" e, em seguida, em "Ativar" para aplicar o tema.
+5. [Marketplace](https://marketplace.visualstudio.com/items?itemName=GhostWithAHoodie.zednos-theme).
 
 ## Contribuindo
 
