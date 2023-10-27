@@ -42,7 +42,7 @@ Contribuições são bem-vindas! Se você deseja melhorar o ZednosTheme, siga es
 Se você tiver alguma dúvida, sugestão ou precisar de suporte, sinta-se à vontade para entrar em contato comigo:
 
 - E-mail: <silvestredourado18@gmail.com>
-- [Issues](https://github.com/SilesterGold9/ZednosTheme/issues)
+- Issues: [Issues](https://github.com/SilesterGold9/ZednosTheme/issues)
 
 Gostou do ZednosTheme? Considere apoiar o projeto com uma estrela ⭐ no GitHub!
 
